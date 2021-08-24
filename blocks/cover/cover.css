@@ -1,0 +1,16 @@
+.cover{
+    background-image: url(../../images/__background.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    display: flex;
+    align-items: stretch;
+}
+
+.cover::before {
+    content: "";
+    display: block;
+    width: 0;
+    height: 0;
+    padding-top: 62.6%;
+  }

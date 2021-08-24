@@ -1,0 +1,21 @@
+.cover_place {
+  margin-top: 92px;
+}
+
+@media screen and (min-width: 1280px) {
+  .cover_place {
+    margin: 92px 48px 0;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .cover_place {
+    margin-top: 90px;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .cover_place {
+    margin-top: 66px;
+  }
+}
