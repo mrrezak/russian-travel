@@ -4,7 +4,6 @@
   line-height: 76px;
   margin: 0;
   max-width: 440px;
-  white-space: pre-line;
 }
 
 @media screen and (max-width: 768px) {
