@@ -8,6 +8,7 @@
 @media screen and (min-width: 1280px){
     .photo-grid{
         gap: 16px;
+        grid-template-columns: repeat(auto-fit,284px);
     }
 }
 
