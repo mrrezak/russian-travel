@@ -10,12 +10,12 @@
 
 @media screen and (max-width: 768px) {
   .cover_place {
-    margin-top: 90px;
+    margin-top: 63px;
   }
 }
 
 @media screen and (max-width: 450px) {
   .cover_place {
-    margin-top: 66px;
+    margin-top: 38px;
   }
 }
