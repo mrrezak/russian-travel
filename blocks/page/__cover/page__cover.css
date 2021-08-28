@@ -10,13 +10,13 @@
   
   @media screen and (max-width: 768px) {
     .page__cover {
-      margin-top: 63px;
+      margin-top: 89px;
     }
   }
   
   @media screen and (max-width: 450px) {
     .page__cover {
-      margin-top: 38px;
+      margin-top: 66px;
     }
   }
   

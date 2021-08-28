@@ -4,7 +4,7 @@
   font-size: 16px;
   line-height: 18px;
   transition: opacity 0.1s linear;
-  margin-right: 18px;
+  margin-right: 14px;
 }
 
 .footer__link:hover {
@@ -13,7 +13,6 @@
 
 .footer__link:nth-child(5) {
   margin-right: 0;
-  margin-bottom: 0;
 }
 
 @media screen and (max-width: 690px) {
